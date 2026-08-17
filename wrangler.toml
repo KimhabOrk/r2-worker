@@ -1,0 +1,11 @@
+name = "assets-r2"
+main = "index.ts"
+compatibility_date = "2026-07-06"
+
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "assets"
+
+[vars]
+PUBLIC_URL = "https://pub-8ffccd9f42a84fb4bd48aaa8ee010380.r2.dev"
+ALLOWED_ORIGINS = "*"
