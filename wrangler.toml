@@ -10,3 +10,4 @@ bucket_name = "assets"
 [vars]
 PUBLIC_URL = "https://pub-8ffccd9f42a84fb4bd48aaa8ee010380.r2.dev"
 ALLOWED_ORIGINS = "*"
+REMOTE_FILES_SECRET = "cfut_YlzjhLvRMc4Xv3wFxxVJcgop1v1PG9gBaqmhaMAtcd30cf8e"
