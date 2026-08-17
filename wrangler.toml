@@ -1,4 +1,5 @@
-name = "assets-r2"
+# wrangler.toml
+name = 'dawn-snowflake-e13e'
 main = "index.ts"
 compatibility_date = "2026-07-06"
 
